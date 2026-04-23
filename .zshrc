@@ -138,6 +138,7 @@ alias exdevstart="npx expo start --dev-client"
 alias easandroidbuild="eas build --platform android --profile internal"
 alias easios="npx eas build --platform ios --profile production --auto-submit"
 alias easandroid="npx eas build --platform android --profile preview"
+alias sleepy="systemctl suspend"
 
 #export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
 #export PATH=$JAVA_HOME/bin:$PATH
