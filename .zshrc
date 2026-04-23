@@ -133,7 +133,7 @@ alias start-context7="nohup npx -y @upstash/context7-mcp --serve --port 3456 > /
 alias android_start="start_android"
 
 alias code="/mnt/c/Users/gregs/AppData/Local/Programs/Microsoft\ VS\ Code/bin/code"
-
+alias ls="ls -la"
 alias exdevstart="npx expo start --dev-client"
 alias easandroidbuild="eas build --platform android --profile internal"
 alias easios="npx eas build --platform ios --profile production --auto-submit"
